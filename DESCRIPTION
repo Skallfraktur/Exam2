@@ -1,0 +1,14 @@
+Package: ExamIII
+Title: Marcus_Bådholm_Exam2
+Version: 0.0.0.9000
+Authors@R: 
+    person("Marcus", "Bådholm", , "marcus.badholm@ki.se", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package allows a PhD student to pass the course Mastering R - Advanced Data Science and Statistical Analysis. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    dplyr,
+    ggplot2
